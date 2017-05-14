@@ -1,0 +1,298 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     4036 MB
+    Driver:   21.21.13.7270
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Lenovo\Desktop\build4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\build4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Desktop\build4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\build4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Desktop\build4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\build4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Lenovo\Desktop\build4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Lenovo\Desktop\build4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.015 seconds
+Platform assembly: C:\Users\Lenovo\Desktop\build4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Lenovo\Desktop\build4_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.654168 ms
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 17b8 -> priority: 1 
+  Thread -> id: e40 -> priority: 1 
+  Thread -> id: 1d7c -> priority: 1 
+  Thread -> id: e28 -> priority: 1 
+  Thread -> id: 870 -> priority: 1 
+  Thread -> id: 1c88 -> priority: 1 
+  Thread -> id: e18 -> priority: 1 
+  Thread -> id: cf0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.578389 ms
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 675.
+Total: 0.381806 ms (FindLiveObjects: 0.044749 ms CreateObjectMapping: 0.022990 ms MarkObjects: 0.189671 ms  DeleteObjects: 0.123984 ms)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.833748 ms
+
+Unloading 283 unused Assets to reduce memory usage. Loaded Objects now: 475.
+Total: 0.738158 ms (FindLiveObjects: 0.027917 ms CreateObjectMapping: 0.020937 ms MarkObjects: 0.190903 ms  DeleteObjects: 0.497990 ms)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+Failed to create agent because it is not close enough to the NavMesh
+ 
+(Filename:  Line: 612)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"ResetPath" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 721)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 214)
+
