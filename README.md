@@ -2,7 +2,7 @@
 
 
 
-The build4_Data folder and the build4 executable together make up the functioning build of our game as seen on Demo Day.  It's meant to serve as an example of what you can do using our framework.  To use this, download the build4 executable and the build4_Data folder and put them in the same directory.  Run build4.exe to play.
+The build4_Data folder and the build4 executable together make up the functioning build of our game demo.  It's meant to serve as an example of what you can do using our framework.  To use this, download the build4 executable and the build4_Data folder and put them in the same directory.  Run build4.exe to play.
 
 
 The src folder contains just the code that we used in this project, organized by what we wrote it for and whether we got it from an outside source.  
