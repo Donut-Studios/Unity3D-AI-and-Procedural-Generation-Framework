@@ -16,7 +16,7 @@ The Prototype archive contains a buildable Unity project folder, complete with t
 
 ### End User Guide
 
-This portion of the guide is intended for laypeople who are using our system to play on the simple levels we created, or to explore our work and play around with it. Feel free to use it either to learn or just for fun! If you are a Unity Developer looking to use our framework, please jump to “Developer Guide” section.
+_This portion of the guide is intended for laypeople who are using our system to play on the simple levels we created, or to explore our work and play around with it. Feel free to use it either to learn or just for fun! If you are a Unity Developer looking to use our framework, please jump to “Developer Guide” section._
 
 
 In order to use our framework, you must have have [installed Unity](https://unity3d.com/get-unity/download) on your machine first. Next, download our files and place them in a directory of your choice. Open Unity, and then hit “Open” and choose the folder where you saved the files. Unity will load and compile all the scripts and the environment.  If you only want to play the game, you can download and run the compiled executable and skip the above steps (although you won’t be able to see how the game works under the hood).
@@ -115,6 +115,7 @@ To apply the Random Map Maker to an empty scene, place the C# script on an empty
 Note that the Random Map Maker by itself is standalone, without any dependencies on the CoreAI class that our characters use.  To make your procedurally generated scenes work with characters, attach Nav Mesh Source Tag components to every floor and wall prefab that the Random Map Maker uses, and a Local Nav Mesh Builder component to any one object in your scene.  We recommend placing it on the same empty object that you placed your Random Map Maker on for neatness.
 
 From there, run the scene and see what happens!  If you notice there are too many items being strewn around your scene, try decreasing the density of the items in the DensityOfItems field in the Inspector View of your procedural generation object.  If items in air are being placed too high or too low, adjust your Y Offset variable in that same view.  If the NavMesh generation isn’t working correctly, double check that you put Nav Mesh Source Tags on each of the prefabs you gave to the script to place.  Once you have a good idea of how changing certain variables changes the map generation, try moving on to the WalledMapMaker script.
+
 This procedural generation script differs slightly from the RandomMapMaker script in that it imposes a few more rules on how the map should be laid out.  Rather than placing items randomly (like the trees that were randomly placed for Level 2), the WalledMapMaker tries to do what its name implies: place walls in ways that make sense.  
 
 For Level 3, this meant having rectangular arrangements of walls with varying heights, spacing between the rectangles, and also some missing walls.  We wanted to demonstrate the vision of the Predator and Stalker, so we wanted the environment to provide plenty of opportunities for them to see the player, but also for the player to evade them.  
