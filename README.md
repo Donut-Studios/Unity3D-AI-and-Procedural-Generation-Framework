@@ -71,7 +71,7 @@ This is just a small detail, but it can be very useful for many variables associ
     {
         protected void Start()
         {
-            CoreAIStart(); //will do 
+            CoreAIStart(); 
         }
 
         // Update is called once per frame
