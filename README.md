@@ -136,7 +136,7 @@ Long story short, if you can keep the problem simple and programmable, and gover
 
 Whether you’re looking to develop the next big hit, learn a bit more about game development and programming, or just have fun messing around with a cool tool, we hope you’ll be able to get some use out of our little project.
 
-We have plans to continue development down the road, adding to the CoreAI library, refining our procedural generation scripts, and adding additional AI NPCs.  The project will be hosted on GitHub, and also will be added to the Unity Marketplace for users to download for free.  
+We have plans to continue development down the road, adding to the CoreAI library, refining our procedural generation scripts, and adding additional AI NPCs.  Hopefully, our project should become big enough to be posted on the Unity store.
 
 Our hope is that many people will be able to use our tool to learn about game development, and produce the games that they otherwise didn’t think they would be able to make.  There are so many artists and storytellers out there that have ideas to share with the world, and we want them to be able to use what we built to make their work come to life.
 
