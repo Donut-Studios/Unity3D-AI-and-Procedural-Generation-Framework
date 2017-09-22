@@ -1,0 +1,6 @@
+Base path: C:/Program Files/Unity5.6/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileSnippet
+  error: 2 plat 1 at (73): variable 'd' used without having been completely initialized\nCompiling Fragment program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF2 UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA
+  api=1 type=1 insize=3291 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF2 UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_HARDWARE_TIER2 UNITY_COLORSPACE_GAMMA ok=0
